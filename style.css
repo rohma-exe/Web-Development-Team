@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#heading{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    color: rgb(28, 80, 60);
+    margin-top: 2%;
+}
+#line{
+    height: 3px;
+    background-color: gray ;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#Second_heading{
+    text-decoration: underline;
+    font-size: 25px ;
+    color: rgb(28, 80, 60);
+    padding-left: 2%;
+}
+
+#para{
+    text-indent: 1em;
+    text-align: justify;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#img{
+    width: 25%;
+    display: block;
+    margin: auto;
+    
+}
